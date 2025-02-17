@@ -5,13 +5,13 @@ export const cvData = {
   image: "", 
   jobTitle: "Software Engineer | AI & ML Enthusiast",
   location: "India",
-  email: "your-email@example.com",
-  linkedIn: "your-linkedin",
-  instagram: "your-instagram",
-  facebook: "your-facebook",
-  twitter: "your-twitter",
-  github: "your-github",
-  website: "your-website.com",
+  email: "saurabhtiwari.connect@example.com",
+  linkedIn: "",
+  instagram: "Nitophen",
+  facebook: "facebook",
+  twitter: "twitter",
+  github: "github",
+  website: "website.com",
   about:
     "Final-year undergraduate student at IIITK, passionate about Software Engineering, AI/ML, and scalable web applications. Experience with full-stack development, cloud computing, and AI-driven projects. Always eager to learn and contribute to impactful solutions.",
 
@@ -40,7 +40,7 @@ export const cvData = {
   projects: [
     {
       title: "CV Builder",
-      link: "https://cv-builder.halid.dev/",
+      link: "https://cv-builder.saurabh",
       summary: `With this project you can create real time CV. You can see the changes you have made live. Built with Tailwind and contextAPI.`,
     },
     {
@@ -51,7 +51,7 @@ export const cvData = {
 
     {
       title: "Weather App",
-      link: "https://weather-imhalid.vercel.app/",
+      link: "https://sarabh.vercel.app/",
       summary: `In this work, a small project where I visualize the data from the API.`,
     },
   ],
@@ -91,39 +91,3 @@ export const cvData = {
   displayTwitter: true,
   activeColor: "#2563EB",
 };
-
-/*
-export const cvDataEmpty = {
-  name: "",
-  jobTitle: "",
-  location: "",
-  email: "",
-  linkedin: "",
-  twitter: "",
-  github: "",
-  website: "",
-  aboutme: "",
-  toolsAndTechSkills: [],
-  industryKnowledge: [],
-  languages: [],
-  projects: [
-    {
-      title: "",
-      summary: "",
-    },
-  ],
-  experience: [
-    {
-      title: "",
-      company: "",
-      from: new Date(),
-      to: new Date(),
-      current: true,
-      summary: "",
-    },
-  ],
-  displayEducation: false,
-  displayProjects: false,
-  activeColor: "#5B21B6",
-};
-*/
